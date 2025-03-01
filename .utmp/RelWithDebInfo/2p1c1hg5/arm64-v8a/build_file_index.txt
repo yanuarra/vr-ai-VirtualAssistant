@@ -1,0 +1,2 @@
+C:\YR\Projects\vr-ai-assistance\vr-ai-assietance\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\YR\Projects\vr-ai-assistance\vr-ai-assietance\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

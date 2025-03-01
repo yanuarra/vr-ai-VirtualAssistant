@@ -1,0 +1,5 @@
+C:/YR/Projects/vr-ai-assistance/vr-ai-assietance/.utmp/RelWithDebInfo/2p1c1hg5/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/YR/Projects/vr-ai-assistance/vr-ai-assietance/.utmp/RelWithDebInfo/2p1c1hg5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/YR/Projects/vr-ai-assistance/vr-ai-assietance/.utmp/RelWithDebInfo/2p1c1hg5/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/YR/Projects/vr-ai-assistance/vr-ai-assietance/.utmp/RelWithDebInfo/2p1c1hg5/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/YR/Projects/vr-ai-assistance/vr-ai-assietance/.utmp/RelWithDebInfo/2p1c1hg5/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
